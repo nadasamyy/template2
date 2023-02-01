@@ -242,7 +242,6 @@ transform: scale3d(0,1,1);
     margin: 50px 40px;
  }
  
- 
 .service_front,.service_back{
     position: absolute;
     margin-top: 30px;
@@ -304,8 +303,17 @@ transform: scale3d(0,1,1);
     margin-top: 30px;
     overflow: auto
 }
+.para_discount{
+    position:absolute;
+    margin-left: 680px;
+    margin-top: 30px;
+    font-size: small;
+}
+.para_discount .disc{
+    color: rgb(130, 159, 238);
+}
 .title_disc{
-    color: rgb(107, 107, 230);
+    color: rgb(130, 159, 238);
 }
 .quot{
     font-size: 12px;
